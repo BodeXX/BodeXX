@@ -48,9 +48,6 @@ Tenho **27 anos**, sou estudante de **Análise e Desenvolvimento de Sistemas** p
 - 🐱 **[Sistema da ONG dos Gatos - Luciene (Produção)](https://github.com/Codando-Junto/luciene)**  
   Um sistema para a ONG dos Gatos, desenvolvido em conjunto com a equipe, para gerenciar informações sobre os animais e facilitar a colaboração entre voluntários.
 
-- ☁️ **[Repositório do Desafio DIO Cloud Java](https://github.com/BodeXX/dio-lab-open-source)**  
-  Desafio prático de cloud computing com Java, abordando a criação e o gerenciamento de aplicações em nuvem.
-
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/jonasbode)**  
   Confira mais sobre minha jornada profissional e meus projetos.
 
