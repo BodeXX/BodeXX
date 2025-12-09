@@ -76,11 +76,11 @@ Tenho experiência prática em **testes automatizados** utilizando:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BodeXX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=BodeXX&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&layout=compact&theme=dracula&hide_border=true&exclude_repo=teste-api-cypress-jonasAlbertoDeFreitasMoura" alt="Top Langs" />
 </div>
 
----
 
