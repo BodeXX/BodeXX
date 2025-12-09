@@ -80,7 +80,9 @@ Tenho experiência prática em **testes automatizados** utilizando:
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&layout=compact&theme=dracula&hide_border=true&exclude_repo=teste-api-cypress-jonasAlbertoDeFreitasMoura" alt="Top Langs" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Langs" />
 </div>
+
+---
 
 
