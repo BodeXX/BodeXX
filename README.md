@@ -74,14 +74,8 @@ Tenho experiência prática em **testes automatizados** utilizando:
 ---
 
 ### 📊 Estatísticas do GitHub
+[![BodeXx GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodexx&show_icons=true)](https://github.com/bodexx)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BodeXX&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Langs" />
-</div>
 
 ---
 
