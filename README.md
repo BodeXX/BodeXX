@@ -73,9 +73,8 @@ Tenho experiência prática em **testes automatizados** utilizando:
 
 ---
 
-### 📊 Estatísticas do GitHub
-[![BodeXx GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodexx&show_icons=true)](https://github.com/bodexx)
-
+### 📊 Estatísticas do GitHub ###
+[![BodeXX GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BodeXX&show_icons=true&theme=dracula&hide_border=true)](https://github.com/BodeXX)
 
 ---
 
