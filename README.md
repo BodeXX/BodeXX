@@ -1,84 +1,57 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+me+chamo+Jonas+Alberto" alt="Animação de digitação de texto" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Jonas+Alberto;Back-end+(Node.js+%26+Go);Focado+em+Clean+Code+%26+Testes;Entusiasta+de+Engenharia+de+Prompt" alt="Typing SVG" />
   </a>
+</div>
+
+<p align="center">
+  <b>Desenvolvedor Back-end (Node.js & Go) | Cultura Full Cycle | Clean Code | Automação de Testes</b><br>
+  📍 Salvador-BA, Brasil
+</p>
+
+Sou um desenvolvedor focado em Back-end com uma forte mentalidade Full Cycle. Para mim, a engenharia de software vai muito além de apenas escrever código: meu objetivo é construir arquiteturas resilientes e garantir que a aplicação funcione de ponta a ponta. 
+
+Tenho facilidade em transitar entre diferentes stacks para resolver problemas reais e utilizo **Engenharia de Prompt e IA** como ferramentas diárias para acelerar meu aprendizado contínuo e criar soluções de mentoria técnica.
+
+---
+
+### 📈 Minhas Estatísticas e Linguagens
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BodeXX&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&amp;layout=compact&amp;theme=radical" height="150" />
 </div>
 
 ---
 
-Tenho **27 anos**, sou estudante de **Análise e Desenvolvimento de Sistemas** pela Descomplica, e conclui um curso intensivo de **Desenvolvimento Full Stack** no SENAC. Meu foco atual é o **Desenvolvimento Back-End**, mas tenho facilidade e abertura para colaborar no **Front-End** quando necessário — afinal, gosto de entender o sistema como um todo.
-
-- Durante minha jornada, tive contato com a área de **Qualidade de Software**, onde explorei ferramentas como **Cypress**, **Cucumber** e práticas de **BDD**. Embora o curso de QA não tenha sido finalizado, ele me proporcionou uma base sólida sobre testes automatizados e entrega de software com qualidade.
-
-- Atualmente participo como colaborador voluntário em um projeto de uma **ONG**, junto com amigos desenvolvedores. Temos aplicado boas práticas de versionamento, organização de tarefas e desenvolvimento em equipe, com foco em aprender e entregar algo útil para a comunidade.
-
-- Além disso, tenho me aprofundado em **Cloud Computing**, automações e práticas DevOps, buscando sempre evoluir por meio de projetos reais e experiências práticas.
-
-- Acredito que um bom ambiente de trabalho é feito de **respeito, colaboração e aprendizado contínuo**. Sou movido por desafios, adoro compartilhar o que sei e estou sempre pronto para aprender mais.
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, TypeScript, Go, Python, Dart.
+- **Back-end:** Node.js, Express, Mongoose.
+- **Testes & Qualidade:** Cypress, Faker, Clean Code.
+- **Infra e Ferramentas:** Docker, Engenharia de Prompt (IAs), Git/GitHub.
 
 ---
 
-###  Tecnologias e Ferramentas
+### 📂 Projetos em Destaque
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,java,javascript,docker,git,linux,mysql,cypress,terraform,html,css" />
-  </a>
-</p>
+Aqui estão alguns repositórios que demonstram como aplico meus conhecimentos na prática:
 
----
+#### 🤖 Inteligência Artificial & Mentoria
+*   **[Ritchie AI Guide](https://github.com/BodeXX/ritchie-ai-guide)**: Um projeto avançado de Engenharia de Prompt para o Google NotebookLM. Transforma a IA em um Mentor Back-end Sênior (Node/TS/Docker), utilizando a filosofia "raiz" de Dennis Ritchie para ensinar fundamentos de forma sólida e direta.
 
-###  Projetos e Links
+#### ⚙️ Back-end & APIs
+*   **[API de Gerenciamento de Consultas Médicas](https://github.com/BodeXX/api-gerenciamento-consultas-medicas)**: API completa desenvolvida com Node.js, Express e Mongoose para realizar o agendamento prático de consultas médicas.
+*   **[API REST em Go](https://github.com/BodeXX/api-rest-go)**: Estruturação e desenvolvimento de uma aplicação utilizando os conceitos de RESTful com a linguagem Go.
 
--  **[Ritchie - Mentor de IA Sênior](https://github.com/BodeXX/ritchie-ai-guide)**
-  Um framework de mentoria baseado em **Knowledge as Code** e Google NotebookLM. Ele transforma documentação passiva em um mentor ativo que realiza Code Reviews e simulados de entrevista, focado em Node.js e Clean Code.
+#### 🧪 Testes Automatizados & Qualidade (QA)
+*   **[Testes de API com Cypress](https://github.com/BodeXX/teste-api-cypress-jonasAlbertoDeFreitasMoura)**: Repositório com testes automatizados E2E/Integração para uma aplicação de filmes. Utiliza Cypress e Faker para cobrir e validar fluxos reais, como autenticação de usuários, promoção de contas e consulta de dados.
 
--  **[API REST de Conversão de Moedas em Go](https://github.com/BodeXX/api-rest-go)**
-  Um projeto pessoal que desenvolvi para criar uma API REST de conversão de moedas em Go. A API oferece suporte para diferentes moedas e taxas de câmbio configuráveis.
-
--  **[Sistema da ONG dos Gatos - Luciene (Produção)](https://github.com/Codando-Junto/lucienne)**
-  Um sistema para a ONG dos Gatos, desenvolvido em conjunto com a equipe, para gerenciar informações sobre os animais e facilitar a colaboração entre voluntários.
-
--  **[LinkedIn](https://www.linkedin.com/in/jonas-alberto-90162372/)**
-  Confira mais sobre minha jornada profissional e meus projetos.
+#### 📱 Versatilidade & Fundamentos
+*   **[Flutter Foundations (POO)](https://github.com/BodeXX/flutter-foundations)**: Repositório dedicado à prática intensa dos fundamentos de Programação Orientada a Objetos (POO) com Dart, criando a base técnica necessária para atuar no desenvolvimento mobile com Flutter.
+*   **[Estudos JavaScript & Clean Code](https://github.com/BodeXX/estudos-javascript)**: Minha biblioteca de consultas pessoais documentando resoluções de algoritmos e práticas de Clean Code na base do JS.
 
 ---
 
-###  Experiência com Qualidade de Software
-
-Tenho experiência prática em **testes automatizados** utilizando:
-
--  **Cypress** para testes end-to-end em aplicações web.
--  **Cucumber** para escrever testes usando a linguagem Gherkin.
--  **BDD (Behavior Driven Development)** para integrar testes com documentação.
-
----
-
-###  Habilidades Adicionais
-
-- **Metodologias Ágeis**: Scrum, Kanban.
-- **Testes Unitários**: Jest, Mocha.
-- **Versionamento**: Git, GitHub, GitLab.
-- **Nuvem**: Docker.
-
----
-
-###  Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonas-alberto-90162372/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jonasalberto.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub ###
-[![BodeXX GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BodeXX&show_icons=true&theme=dracula&hide_border=true)](https://github.com/BodeXX)
-
----
-
-
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/jonas-alberto-90162372/)
+- Email: jonasalberto.dev@gmail.com
