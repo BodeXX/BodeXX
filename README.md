@@ -18,8 +18,7 @@ Tenho facilidade em transitar entre diferentes stacks para resolver problemas re
 ### 📈 Minhas Estatísticas e Linguagens
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BodeXX&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BodeXX&amp;layout=compact&amp;theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BodeXX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
