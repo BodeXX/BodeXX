@@ -15,7 +15,7 @@ Tenho facilidade em transitar entre diferentes stacks para resolver problemas re
 
 ---
 
-### 📈 Minhas Estatísticas e Linguagens
+### Minhas Estatísticas e Linguagens
 
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BodeXX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
