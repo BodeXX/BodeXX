@@ -1,21 +1,21 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Jonas+Alberto;Back-end+(Node.js+%26+Go);Focado+em+Clean+Code+%26+Testes;Entusiasta+de+Engenharia+de+Prompt" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Jonas+Alberto;Backend+Software+Engineer;Microsservi%C3%A7os+%26+Arquitetura+Limpa;Automa%C3%A7%C3%A3o,+Docker+%26+Cloud" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <b>Desenvolvedor Back-end (Node.js & Go) | Cultura Full Cycle | Clean Code | Automação de Testes</b><br>
+  <b>Backend Software Engineer | Node.js, Go & Python | Distributed Systems & Clean Architecture</b><br>
   📍 Salvador-BA, Brasil
 </p>
 
-Sou um desenvolvedor focado em Back-end com uma forte mentalidade Full Cycle. Para mim, a engenharia de software vai muito além de apenas escrever código: meu objetivo é construir arquiteturas resilientes e garantir que a aplicação funcione de ponta a ponta. 
+Engenheiro de Software Backend com forte atuação em arquitetura de microsserviços, design de APIs resilientes, telemetria e automação de infraestrutura. Acredito que engenharia de software vai muito além de escrever código funcional: trato a manutenibilidade, a observabilidade, a segurança de dados (PII filtering) e a escalabilidade como pilares fundamentais de qualquer sistema.
 
-Tenho facilidade em transitar entre diferentes stacks para resolver problemas reais e utilizo **Engenharia de Prompt e IA** como ferramentas diárias para acelerar meu aprendizado contínuo e criar soluções de mentoria técnica.
+Transito com fluidez entre diferentes ecossistemas tecnológicos para desenhar e entregar soluções robustas, aplicando automação de testes, automações via Makefiles/Docker, boas práticas de Clean Code e integração com inteligência artificial para otimização de fluxos conversacionais.
 
 ---
 
-### Minhas Estatísticas e Linguagens
+### Minhas Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BodeXX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -23,34 +23,35 @@ Tenho facilidade em transitar entre diferentes stacks para resolver problemas re
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, TypeScript, Go, Python, Dart.
-- **Back-end:** Node.js, Express, Mongoose.
-- **Testes & Qualidade:** Cypress, Faker, Clean Code.
-- **Infra e Ferramentas:** Docker, Engenharia de Prompt (IAs), Git/GitHub.
+### 🛠️ Stack Tecnológica & Ferramentas
+- **Linguagens:** TypeScript, JavaScript, Go (Golang), Python, C
+- **Backend & APIs:** Node.js, Express, FastAPI, REST APIs, WebSockets, Zod, Pydantic
+- **Bancos de Dados & ORMs:** PostgreSQL, MongoDB, Prisma ORM, Mongoose, MySQL, Cloudflare D1
+- **DevOps, Infra & Ferramentas:** Docker, Cloudflare Workers, Linux (Ubuntu), Git/GitHub, Makefiles, SDKMAN
+- **Qualidade & Testes:** Vitest, Pytest, Clean Architecture, Test-Driven Development (TDD)
 
 ---
 
-### 📂 Projetos em Destaque
+###  Projetos & Atuação em Destaque
 
-Aqui estão alguns repositórios que demonstram como aplico meus conhecimentos na prática:
+Aqui estão alguns repositórios e iniciativas que refletem meu foco técnico e padrões de engenharia:
 
-#### 🤖 Inteligência Artificial & Mentoria
-*   **[Ritchie AI Guide](https://github.com/BodeXX/ritchie-ai-guide)**: Um projeto avançado de Engenharia de Prompt para o Google NotebookLM. Transforma a IA em um Mentor Back-end Sênior (Node/TS/Docker), utilizando a filosofia "raiz" de Dennis Ritchie para ensinar fundamentos de forma sólida e direta.
+####  Sistemas Backend, Microsserviços & IA
+*   **Gepetto / e-artesan** *(Ambiente Corporativo / PJ)*: Atuação no desenvolvimento de microsserviços backend, DTOs, arquitetura de integração e serviços de rate-limiting para assistentes inteligentes via WhatsApp, com foco em segurança de dados (PII filtering) e telemetria.
+*   **[Ritchie AI Guide](https://github.com/BodeXX/ritchie-ai-guide)**: Sistema avançado de engenharia de prompt e estruturação de conhecimento para o Google NotebookLM, projetado para atuar como um mentor de engenharia backend sênior baseado na filosofia de Dennis Ritchie.
 
-#### ⚙️ Back-end & APIs
-*   **[API de Gerenciamento de Consultas Médicas](https://github.com/BodeXX/api-gerenciamento-consultas-medicas)**: API completa desenvolvida com Node.js, Express e Mongoose para realizar o agendamento prático de consultas médicas.
-*   **[API REST em Go](https://github.com/BodeXX/api-rest-go)**: Estruturação e desenvolvimento de uma aplicação utilizando os conceitos de RESTful com a linguagem Go.
+####  Automação, Scraping & Engenharia de Dados
+*   **[Web Scraping & Clean Architecture (Python)](https://github.com/BodeXX)**: Implementação de MVPs em Python estruturados em Clean Architecture, utilizando BeautifulSoup4 e Pydantic para ingestão robusta, validação estrita de dados e exportação estruturada.
 
-#### 🧪 Testes Automatizados & Qualidade (QA)
-*   **[Testes de API com Cypress](https://github.com/BodeXX/teste-api-cypress-jonasAlbertoDeFreitasMoura)**: Repositório com testes automatizados E2E/Integração para uma aplicação de filmes. Utiliza Cypress e Faker para cobrir e validar fluxos reais, como autenticação de usuários, promoção de contas e consulta de dados.
+####  Microsserviços & APIs de Alta Performance
+*   **[API REST em Go](https://github.com/BodeXX/api-rest-go)**: Implementação de microsserviço de alta performance em Go, aplicando padrões idiomáticos da linguagem, concorrência e estruturação modular limpa.
+*   **[API de Gerenciamento de Consultas Médicas](https://github.com/BodeXX/api-gerenciamento-consultas-medicas)**: Arquitetura e desenvolvimento de API RESTful robusta utilizando Node.js, Express e Mongoose, focada em validação rigorosa de dados e modelagem de domínio.
 
-#### 📱 Versatilidade & Fundamentos
-*   **[Flutter Foundations (POO)](https://github.com/BodeXX/flutter-foundations)**: Repositório dedicado à prática intensa dos fundamentos de Programação Orientada a Objetos (POO) com Dart, criando a base técnica necessária para atuar no desenvolvimento mobile com Flutter.
-*   **[Estudos JavaScript & Clean Code](https://github.com/BodeXX/estudos-javascript)**: Minha biblioteca de consultas pessoais documentando resoluções de algoritmos e práticas de Clean Code na base do JS.
+####  Qualidade & Automação de Testes
+*   **[Testes de API com Cypress](https://github.com/BodeXX/teste-api-cypress-jonasAlbertoDeFreitasMoura)**: Suíte de testes automatizados E2E e de integração focada na validação de fluxos críticos de autenticação e integridade de dados.
 
 ---
 
-### 📫 Como me encontrar
+###  Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/jonas-alberto-90162372/)
 - Email: jonasalberto.dev@gmail.com
